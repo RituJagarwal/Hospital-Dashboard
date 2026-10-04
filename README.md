@@ -15,7 +15,6 @@ The workbook `Hospital_Dashboard.xlsx` contains 6 well-managed sheets:
 4.  **Field Guide:** Data Dictionary with column definitions
 5.  **Pivot Table:** Backend calculations for charts
 6.  **Dashboard:** Final interactive dashboard
-7.  **Key Insights:** Summary of findings
 
 ## 🛠️ Skills Demonstrated
 - Data Cleaning & Transformation
