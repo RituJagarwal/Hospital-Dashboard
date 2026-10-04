@@ -32,9 +32,17 @@ The workbook `Hospital_Dashboard.xlsx` contains 6 well-managed sheets:
 - Average billing and patient count tracked.
 - OPD vs IPD performance comparison.
 
+![Hospital Dashboard](Dashboard_Preview.png)
+
 ## 🚀 How to View
 1. Download `Hospital_Dashboard.xlsx`
 2. Enable Editing
 3. Go to the Dashboard sheet and use Slicers to interact
 
 Thanks for checking out my project!
+
+## 📊 Hospital Dashboard Preview
+
+Here is a preview of my Hospital Dashboard created using Microsoft Excel.
+
+![Hospital Dashboard](Dashboard_Preview.png)
